@@ -2,6 +2,8 @@ A tool based of the Inter Realsense SDK that can track a users focus in real-tim
 
 ![System in Action](Picture1.png)
 
+See Media1.mp4 for an example of the system in action
+
 The Intel RealSense SDK is required to build and run the code.  It is avaialbe at the following link:
 https://software.intel.com/en-us/intel-realsense-sdk/download
 
